@@ -1,0 +1,24 @@
+[
+    {
+        "model": "ceravi_app.Usuario",
+        "pk": 1,
+        "fields": {
+            "idUsuario": 1,
+            "tipo": 1, 
+            "nome": "Lina",
+            "email":"lina@gmail.com",
+            "senha":"1234"
+        }
+    },
+    {
+        "model": "ceravi_app.Usuario",
+        "pk": 2,
+        "fields": {
+            "idUsuario": 2,
+            "tipo": 1, 
+            "nome": "Claudete Maria",
+            "email":"claudete@gmail.com",
+            "senha":"1234A"
+        }
+    }
+]
